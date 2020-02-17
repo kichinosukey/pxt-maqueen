@@ -1,6 +1,6 @@
 {
-    "maqueen.Motors.M1|block": "M1",
-    "maqueen.Motors.M2|block": "M2",
+    "maqueen.Motors.M1|block": "hoge",
+    "maqueen.Motors.M2|block": "huga",
     "maqueen.Patrol.PatrolLeft|block": "izquierdo",
     "maqueen.Patrol.PatrolRight|block": "derecho",
     "maqueen.LEDswitch.turnOn|block": "encender",
